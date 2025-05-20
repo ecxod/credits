@@ -4,7 +4,11 @@ One Day I realized that I use a lot of open source software, and I decided to at
 
 | Some of the Libraries I Use (tdc..)  |
 | --- |
-| Notepad++ [Don Ho](https://github.com/donho) |
+| Firefox []() |
+| Thunderbird []() |
+| 7-Zip []() |
+| [Tera Term](https://github.com/TeraTermProject/teraterm) [@nmaya]() [@ttdoda](https://github.com/ttdoda) |
+| Notepad++ [@DonHo](https://github.com/donho) |
 | DB Browser for SQLite [@piacentini](https://github.com/piacentini) [@mgrojo](https://github.com/) [@lucydodo](https://github.com/lucydodo) [@justinclift](https://github.com/justinclift) [@chrisjlocke](https://github.com/chrisjlocke) [@scottfurry](https://github.com/scottfurry) |
 | SRWare Iron [@srware](https://www.srware.net/)|
 | VSCodium [@daiyam](https://github.com/daiyam) [@stripedpajamas](https://github.com/stripedpajamas) |
@@ -18,6 +22,8 @@ One Day I realized that I use a lot of open source software, and I decided to at
 
 | Some other Software |
 | --- | 
-| Devuan []()|
-| Prosody []()|
-| HexChat []()|
+| Devuan []() |
+| Prosody []() |
+| HexChat []() |
+| [Rapid Environment](https://www.rapidee.com/en/support) Editor [olegd](https://gitlab.com/olegd) |
+| [AnyDesk](https://anydesk.com/en/imprint) (sadly not open Source) |
