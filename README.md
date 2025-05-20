@@ -1,7 +1,12 @@
 # Credits
 
-| Some Credits to Libraries I Use  |
+One Day I realized that I use a lot of open source software, and I decided to at least give credit to all the wondefull people who created It.
+
+| Some of the Libraries I Use (tdc..)  |
 | --- |
+| Notepad++ [Don Ho](https://github.com/donho) |
+| DB Browser for SQLite [@piacentini](https://github.com/piacentini) [@mgrojo](https://github.com/) [@lucydodo](https://github.com/lucydodo) [@justinclift](https://github.com/justinclift) [@chrisjlocke](https://github.com/chrisjlocke) [@scottfurry](https://github.com/scottfurry) |
+| SRWare Iron [@srware](https://www.srware.net/)|
 | VSCodium [@daiyam](https://github.com/daiyam) [@stripedpajamas](https://github.com/stripedpajamas) |
 | Git Graph [@mhutchie](https://github.com/mhutchie) |
 | GitLens [@eamodio](https://github.com/eamodio) [gitkraken](https://www.gitkraken.com/) |
@@ -11,3 +16,8 @@
 | Html CSS Support [@ecmel](https://github.com/ecmel) |
 | Todo Tree [@Gruntfuggly](https://github.com/Gruntfuggly) |
 
+| Some other Software |
+| --- | 
+| Devuan []()|
+| Prosody []()|
+| HexChat []()|
