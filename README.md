@@ -25,5 +25,5 @@ One Day I realized that I use a lot of open source software, and I decided to at
 | Devuan []() |
 | Prosody []() |
 | HexChat []() |
-| [Rapid Environment](https://www.rapidee.com/en/support) Editor [olegd](https://gitlab.com/olegd) |
+| [Rapid Environment](https://www.rapidee.com/en/support) [olegd](https://gitlab.com/olegd) |
 | [AnyDesk](https://anydesk.com/en/imprint) (sadly not open Source) |
